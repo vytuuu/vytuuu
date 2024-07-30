@@ -22,18 +22,19 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytuuu&show_icons=true&theme=dark)
+![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
 
 ---
 
 ## 💬 Vamos Conversar!
 
-Adoro conectar com outras pessoas e discutir ideias sobre tecnologia. Sinta-se à vontade para me enviar uma mensagem ou se conectar comigo através do GitHub.
+Adoro conectar com outras pessoas e discutir ideias sobre tecnologia. Sinta-se à vontade para me enviar uma mensagem ou se conectar comigo através do GitHub ou Discord: **vytu**.
 
 ---
 
