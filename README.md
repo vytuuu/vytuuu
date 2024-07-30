@@ -27,7 +27,7 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub de Vitor](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytuuu&show_icons=true&theme=dark)
 
 ---
 
