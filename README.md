@@ -2,9 +2,7 @@
 
 ## Sobre Mim
 
-🎓 **Formação:** Desenvolvedor Aprendiz
-
-💼 **Atualmente:** Focado em Desenvolvimento Backend
+🎓 **Formação:** Desenvolvedor Backend
 
 🌱 **Interesses:** Node.js, APIs, Bancos de Dados, e mais!
 
