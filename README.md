@@ -28,7 +28,16 @@
 
 ## 📈 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vytuuu&show_icons=true&theme=dark)
+<table>
+  <tr>
+    <td>
+      <img width="450px" src="https://github-readme-stats.vercel.app/api?username=vytuuu&show_icons=true&theme=dark" alt="Estatísticas do GitHub de Vitor">
+    </td>
+    <td>
+      <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vytuuu&layout=compact&theme=dark" alt="Linguagens mais usadas">
+    </td>
+  </tr>
+</table>
 
 ---
 
