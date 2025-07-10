@@ -2,24 +2,34 @@
 
 ## Sobre Mim
 
-🎓 **Formação:** Desenvolvedor Backend
+🎓 **Formação:** Desenvolvedor Fullstack  
+💼 **Atuação:** Backend com Node.js, Frontend com React e Next.js  
+🌱 **Interesses:** APIs REST/GraphQL, Bancos de Dados, DevOps, UI/UX e mais!
 
-🌱 **Interesses:** Node.js, APIs, Bancos de Dados, e mais!
-
-📘 **Aprendendo:** React, Next.js
+📘 **Aprendendo e Me Aperfeiçoando:** Arquitetura de Software, Testes Automatizados, e Práticas DevOps modernas.
 
 ---
 
 ## 🔧 Tecnologias & Ferramentas
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+### 🖥️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+### 🌐 Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwind-css)
+
+### 🛠️ Outros
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=flat&logo=vercel)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Discord.js](https://img.shields.io/badge/-Discord.js-333333?style=flat&logo=discord)
 
 ---
@@ -41,8 +51,9 @@
 
 ## 💬 Vamos Conversar!
 
-Adoro conectar com outras pessoas e discutir ideias sobre tecnologia. Sinta-se à vontade para me enviar uma mensagem ou se conectar comigo através do GitHub ou Discord: **vytu**.
+Gosto de trocar ideias sobre tecnologia, resolver problemas de forma criativa e colaborar em projetos.  
+Entre em contato comigo pelo GitHub ou Discord: **vytu**.
 
 ---
 
-⭐️ Deixe uma estrela nos meus repositórios se você gostou dos meus projetos!
+⭐️ Se curtir algum dos meus projetos, deixe uma estrela — isso ajuda muito!
